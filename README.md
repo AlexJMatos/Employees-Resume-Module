@@ -28,28 +28,28 @@ Now, to test the endpoints use http://localhost:8080/
 
 ## ENDPOINTS 
 
-GET --> /employees/resumes
-GET --> /employees/{employeeId}/resume
-POST --> /employees/{employeeId}/resume
-PUT --> /employees/{employeeId}/resume
-PATCH --> /employees/{employeeId}/resume
-
-GET --> /employees/{employeeId}/resume/technologies
-GET --> /employees/{employeeId}/resume/technologies/{technologyId}
-POST --> /employees/{employeeId}/resume/technologies
-PUT --> /employees/{employeeId}/resume/technologies/{technologyId}
-
-GET --> /employees/{employeeId}/resume/skills
-GET --> /employees/{employeeId}/resume/skills/{skillId}
-POST --> /employees/{employeeId}/resume/skills
-PUT --> /employees/{employeeId}/resume/skills/{skillId}
-
-GET --> /employees/{employeeId}/resume/education
-GET --> /employees/{employeeId}/resume/education/{educationId}
-POST --> /employees/{employeeId}/resume/education
-PUT --> /employees/{employeeId}/resume/education/{educationId}
-
-GET --> /employees/{employeeId}/resume/work-experience
-GET --> /employees/{employeeId}/resume/work-experience/{workId}
-POST --> /employees/{employeeId}/resume/work-experience
-PUT --> /employees/{employeeId}/resume/work-experience/{workId}
+#### GET --> /employees/resumes
+#### GET --> /employees/{employeeId}/resume
+#### POST --> /employees/{employeeId}/resume
+#### PUT --> /employees/{employeeId}/resume
+#### PATCH --> /employees/{employeeId}/resume
+#### 
+#### GET --> /employees/{employeeId}/resume/technologies
+#### GET --> /employees/{employeeId}/resume/technologies/{technologyId}
+#### POST --> /employees/{employeeId}/resume/technologies
+#### PUT --> /employees/{employeeId}/resume/technologies/{technologyId}
+#### 
+#### GET --> /employees/{employeeId}/resume/skills
+#### GET --> /employees/{employeeId}/resume/skills/{skillId}
+#### POST --> /employees/{employeeId}/resume/skills
+#### PUT --> /employees/{employeeId}/resume/skills/{skillId}
+#### 
+#### GET --> /employees/{employeeId}/resume/education
+#### GET --> /employees/{employeeId}/resume/education/{educationId}
+#### POST --> /employees/{employeeId}/resume/education
+#### PUT --> /employees/{employeeId}/resume/education/{educationId}
+#### 
+#### GET --> /employees/{employeeId}/resume/work-experience
+#### GET --> /employees/{employeeId}/resume/work-experience/{workId}
+#### POST --> /employees/{employeeId}/resume/work-experience
+#### PUT --> /employees/{employeeId}/resume/work-experience/{workId}
