@@ -15,10 +15,10 @@ In the main root, run the command "docker-compose up" in order to create the con
 Once the container is up, the next step is to go to the Pgadmin container in http://localhost:5050
 The password for pgadmin is "admin". Once loaded, connect to server with the following parameters
 
-HOST: resume-db
-PORT: 5432
-User: resume_module_user
-Password: resume_itk
+#### HOST: resume-db
+#### PORT: 5432
+#### User: resume_module_user
+#### Password: resume_itk
 
 ### 4. Load the database 
 Once connected, load the database specified in the "resume-module-db.sql" using the query tool
